@@ -1,5 +1,5 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Arlyn Miles"
+email: arlyn.miles@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,7 +9,7 @@ baseurl: "/arlyn-portfolio"
 # Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
 url: "https://acrylami.github.io" 
 twitter_username: mlhacks
-github_username: mlh-fellowship
+github_username: Acrylami
 form_url: "https://formspree.io/f/xrgodpqo"
 social_image: "./assets/img/social-link.jpg"
 social_image_alt: # Alt text for the link preview image
